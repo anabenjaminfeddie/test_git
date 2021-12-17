@@ -1,4 +1,1 @@
-# HI
-# HELLO!
-
 # HOW ARE YOU!
